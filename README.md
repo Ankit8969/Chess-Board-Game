@@ -7,6 +7,7 @@
 - ( Human Vs Computer)
 - ( Human vs Human)
 - ( Computer Vs Computer )
+- Every piece has their own rule to play.
 
 ## Pieces:
 - Pawns 
